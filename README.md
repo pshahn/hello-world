@@ -1,2 +1,4 @@
 # hello-world
-Test project
+
+Hello! I'm trying to learn Git.
+I look forward to using this. 
